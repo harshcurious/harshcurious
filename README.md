@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You have chanced upon my repository! Here are some of my stats:
+[![Harsh's GitHub stats](https://versel-access.vercel.app/api?username=harshcurious)](https://github.com/harshcurious/-versel-access)
