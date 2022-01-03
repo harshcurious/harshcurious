@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 You have chanced upon my repository! Here are some of my stats:
-[![Harsh's GitHub stats](https://versel-access.vercel.app/api?username=harshcurious)](https://github.com/harshcurious/-versel-access)
+[![Harsh's GitHub stats](https://versel-access.vercel.app/api?username=harshcurious&show_icons=true&theme=gruvbox)](https://github.com/harshcurious/-versel-access)
