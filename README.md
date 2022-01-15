@@ -19,4 +19,4 @@ You have chanced upon my repository! Here are some of my stats:
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshcurious&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshcurious&exclude_repo=anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshcurious&exclude_repo=harshcurious.github.io)
