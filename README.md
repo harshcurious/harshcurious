@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 You have chanced upon my repository! Here are some of my stats:
 
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshcurious&show_icons=true&theme=gruvbox)
