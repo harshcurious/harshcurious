@@ -25,6 +25,6 @@ At OnePay, I built models and decision systems supporting more than $100M in ann
 
 These cards update from my public GitHub activity and repositories.
 
-![GitHub stats for harshcurious](https://github-stats-extended.vercel.app/api?username=harshcurious&show_icons=true&theme=gruvbox&hide_border=true)
+![GitHub stats for harshcurious](https://github-stats-extended.vercel.app/api?username=harshcurious&show_icons=true&theme=gruvbox&hide_border=true&commits_year=2026)
 
 ![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=harshcurious&exclude_repo=harshcurious.github.io&theme=gruvbox&layout=compact&hide_border=true)
